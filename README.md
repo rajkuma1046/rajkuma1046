@@ -1,853 +1,1155 @@
-<html>
+<!-- Created By CodingNepal - www.codingnepalweb.com  -->
+<!DOCTYPE html>
+<html lang="hi">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Happy Navratri 2022 </title>
-    <meta name="google" value="notranslate">
-    <meta property="og:type" content="Make your own wonderful wish for you loved one" />
-    <meta property="og:title" content="Happy Navratri 2022 " />
-    <meta property="og:url" content="https://www.google.com/>
-    
-    
-    
-    
-    
-    
-    
-    
-    <meta property="og:description" content="Free Happy Navratri 2019 Whatsapp Viral HTML Blogger Script. Share this Happy Navratri 2019 Whatsapp Viral Script & Earn Money" />
-    <meta property="og:site_name" content="Happy Navratri 2022V iral Script" />
-    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
-    <link href='https://fonts.googleapis.com/css?family=Sofia:&effect=neon' rel='stylesheet'>
-    <link rel="icon" type="imgage/pn" sizes="32x32" href="https://1.bp.blogspot.com/-u4YKj6vdPp0/XYtEStpmHqI/AAAAAAAADAY/1FugTf7Mut84pJGqFPsA4yVO-jdKHeaugCLcBGAsYHQ/s1600/favicon.png">
-<style>
-
-
-
-
-i {
-
- width: 50%;
-padding-left: 20px;
-
-padding-right: 30px;
-
-        color: #f0ff4f;
-        text-decoration: capitalize;
-    }
-input[type=name], select {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 4px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 10px;
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale= 1.0">
+    <title>mp police 2023 mock test | credit: codenepali</title>
+    <meta http-equiv="Content-Type" content="text/html; " />
+    <meta name="description" content="recently mp goverment release 7000+ vacency in mp police department ,syllabus, mocktest, mp police pyqs" />
+    <meta name="keywords" content="mp police admit card,mp police constable exam date 2023,mp police vacancy 2023 official website, mp police mock test in hindi,MP Police Mock Test 2023 in Hindi" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
+    <script src="https://cdn.examgoal.net/room-examgoal-com/v2.7/mathjax.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/input/asciimath.js"></script>
+    <!-- FontAweome CDN Link for Icons-->
+  <!--  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+-->
+<style type="text/css">
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-}
-.footerbtn {
- 
-            display: block;
-            line-height: 50px;
-            position: fixed;
-            left:0px;
-            bottom: 10px;
-            height:50px;
-            
-border-radius: 30px;
-  box-sizing: border-box;
-  padding: 5px;
-  background:#34af23;
-  color: #ffffff;
-  font-size: 18vh;
-  text-align: center;
-  text-decoration: none;
-  width:70%;
- margin-left:10px;
-            margin-right:30px;
-            box-shadow: 0 4px 12px 0 rgba(0, 0, 0, .3);
-            animation: footer infinite linear 1s;
-            -webkit-transform: translate3d(30%,0,0);
-            transform: translate3d(30%,0,0);
-            position: fixed;
-           
+    font-family: 'Poppins', sans-serif;
+    
 }
 
-.footerbtn :active {
-            box-shadow: none;
-            border: 5px solid blue;
-            
-        }
-
-        @-webkit-keyframes footer {
-            from {
-                -webkit-transform: rotateZ(0)
-            }
-            25% {
-                -webkit-transform: rotateZ(0deg)
-            }
-            50% {
-                -webkit-transform: rotateZ(0deg)
-            }
-            75% {
-                -webkit-transform: rotateZ(0deg)
-            }
-            to {
-                -webkit-transform: rotateZ(0)
-            }}
-
-@-webkit-keyframes jello {  from, 11.1%, to {    transform: none;  }
-  22.2% {    transform: skewX(-12.5deg) skewY(-12.5deg);  }
-  33.3% {    transform: skewX(6.25deg) skewY(6.25deg);  }
-  44.4% {    transform: skewX(-3.125deg) skewY(-3.125deg);  }
-  55.5% {    transform: skewX(1.5625deg) skewY(1.5625deg);  }
-  66.6% {    transform: skewX(-0.78125deg) skewY(-0.78125deg);  }
-  77.7% {    transform: skewX(0.390625deg) skewY(0.390625deg);  }
-  88.8% {    transform: skewX(-0.1953125deg) skewY(-0.1953125deg);  }}
-
-    .technovedant1{position:fixed;left:1%; width:auto;height:100%;top:1%;color:#000;}
-    .technovedant2{position:fixed;right:1%; width:auto;height:100%;top:1%;color:#000;}
-.bubbles {
-font-family: arial;
+body{
+    background: green;
 }
 
-.bubbles hi {
-font-family: 'Luckiest Guy', cursive;
-color: black;
+::selection{
+    color: #fff;
+    background: #007bff;
 }
 
-hi {
- font-size:2.5em;
- user-select:none;
+.start_btn,
+.info_box,
+.quiz_box,
+.result_box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-hi span { display:inline-block; animation:float .2s ease-in-out infinite; }
- @keyframes float {
-  0%,100%{ transform:none; }
-  33%{ transform:translateY(-1px) rotate(-2deg); }
-  66%{ transform:translateY(1px) rotate(2deg); }
-}
-body:hover span { animation:bounce .6s; }
-@keyframes bounce {
-  0%,100%{ transform:translate(0); }
-  25%{ transform:rotateX(20deg) translateY(2px) rotate(-3deg); }
-  50%{ transform:translateY(-20px) rotate(3deg) scale(1.1);  }
+.info_box.activeInfo,
+.quiz_box.activeQuiz,
+.result_box.activeResult{
+    opacity: 1;
+    z-index: 5;
+    pointer-events: auto;
+    transform: translate(-50%, -50%) scale(1);
 }
 
-@import url(https://lh6.googleusercontent.com/proxy/YfzDH9rGEX2_6c0-ipAee-UwIRD6yJ2S-9zgBkCvqKQxaNYcbJ399-QVTehEPWRHJ-iB2IRCLJ-HGPW_wv9fmo8T2WG1qQ=s0-d);
-
-h1 {
-  animation:glow 10s ease-in-out infinite;
+.start_btn button{
+    font-size: 25px;
+    font-weight: 500;
+    color: #007bff;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #fff;
+    cursor: pointer;
 }
 
-
-
-* { box-sizing:border-box; }
-
-figure {
-  animation:wobble 5s ease-in-out infinite;
-  transform-origin:center center;
-  transform-style:preserve-3d;
+.info_box{
+    width: 400px;
+    background: #fff;
+    border-radius: 5px;
+    margin-top: 30vh;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
 }
 
-@keyframes wobble {
-  0%,100%{ transform:rotate3d(1,1,0,40deg); }
-  25%{ transform:rotate3d(-1,1,0,40deg); }
-  50%{ transform:rotate3d(-1,-1,0,40deg); }
-  75%{ transform:rotate3d(1,-1,0,40deg); }
+.info_box .info-title{
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    border-radius: 5px 5px 0 0;
+    font-size: 20px;
+    font-weight: 600;
 }
 
-h1 {
-  display:block;
-  width:90%;
-  line-height:1.5;
-  font:900 35px 'Concert One', sans-serif;
-  position:absolute;
-  color:#fff;
+.info_box .info-list{
+    padding: 15px 30px;
 }
 
-@keyframes glow {
-  0%,100%{ text-shadow:0 0 30px red; }
-  25%{ text-shadow:0 0 30px orange; }
-  50%{ text-shadow:0 0 30px forestgreen; }
-  75%{ text-shadow:0 0 30px cyan; }
+.info_box .info-list .info{
+    margin: 5px 0;
+    font-size: 17px;
 }
 
-h1:nth-child(2){ transform:translateZ(5px); }
-h1:nth-child(3){ transform:translateZ(10px);}
-h1:nth-child(4){ transform:translateZ(15px); }
-h1:nth-child(5){ transform:translateZ(20px); }
-h1:nth-child(6){ transform:translateZ(25px); }
-h1:nth-child(7){ transform:translateZ(30p.rock{animation:infinite 1s rock}
-@keyframes rock {  0% {    transform: rotate(-1deg);  }
-  50% {    transform: rotate(2deg);  }
-  100% {    transform: rotate(-1deg);  }}x); }
-h1:nth-child(8){ transform:translateZ(35px); }
-h1:nth-child(9){ transform:translateZ(40px); }
-h1:nth-child(10){ transform:translateZ(45px); }
+.info_box .info-list .info span{
+    font-weight: 600;
+    color: #007bff;
+}
+.info_box .buttons{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 30px;
+    border-top: 1px solid lightgrey;
+}
 
+.info_box .buttons button{
+    margin: 0 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    transition: all 0.3s ease;
+}
 
-
-.rock{animation:infinite 1s rock}
-@keyframes rock {  0% {    transform: rotate(-1deg);  }
-  50% {    transform: rotate(2deg);  }
-  100% {    transform: rotate(-1deg);  }}
-
-.fuck{animation:infinite 1s fuck}
-@keyframes rock {  0% {    transform: rotate(-2deg);  }
-  50% {    transform: rotate(2deg);  }
-  100% {    transform: rotate(-2deg);  }}
-
-
-h2 {
+.quiz_box{
+    width: 400px;
+    background: #fff;
+    margin-top: 30vh;
+    border-radius: 5px;
+transform: translate(-50%, -50%) scale(0.9);
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+    overflow: hidden;
    
-    -webkit-animation: bounceIn 4s cubic-bezier(0.68, -0.55, 0.27, 1.55) infinite;
-     animation: bounceIn 4s cubic-bezier(0.68, -0.55, 0.27, 1.55) infinite;
-    -webkit-transition: all .2s;
-    transition: all .2s;
-    font-size: 35px;
-    text-transform: uppercase;
-    TEXT-ALIGN:CENTER;
-    color: #138808;
-    text-shadow: -2px 0px 1px #22414f, -4px 0px 1px #22414f, -6px 0px 1px #22414f, -1px -1px 1px #22414f, -1px -2px 1px #22414f, -2px -1px 1px #22414f, -2px -2px 1px #22414f, -3px -3px 1px #22414f, -4px -4px 1px #22414f, -5px -5px 1px #22414f, -6px -6px 1px #22414f, 0 0 15px #22414f, 0 0 20px #22414f, 1px 1px #22414f,2px 2px #22414f;
-
+   
+    
 }
 
-h3 {
+.quiz_box header{
+    position: relative;
+    z-index: 2;
+    height: 70px;
+    padding: 0 30px;
+    background: #fff;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+}
+
+.quiz_box header .title{
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 2px 2px 1.6px #d7d9d7;
+}
+
+.quiz_box header .timer{
+    color: #004085;
+    background: #cce5ff;
+    border: 1px solid #b8daff;
+    height: 45px;
+    padding: 0 8px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 145px;
+}
+
+.quiz_box header .timer .time_left_txt{
+    font-weight: 400;
+    font-size: 17px;
+    user-select: none;
+}
+
+.quiz_box header .timer .timer_sec{
     font-size: 18px;
+    font-weight: 500;
+    height: 30px;
+    width: 45px;
+    color: #fff;
+    border-radius: 5px;
+    line-height: 30px;
     text-align: center;
-    padding:1px;
-    margin:1px;
-    color: #ffffff;
-   
-    aanimation: fuck infinite 1s;
-##########    font-family: ;              %%%33%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    letter-spacing: 2px;
-    word-spacing: 4px;
-	
-	
-	* {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-/* TECHNOVEDANT.in */
-.TECHNOVEDANT-slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
+    background-image: linear-gradient(to right, #681be3, #9a1be3) ;
+    border: 1px solid #343a40;
+    user-select: none;
 }
 
-/* TECHNOVEDANT.In */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
+.quiz_box header .time_line{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 5px;
+    background-color: #48e81c;
+ 
 }
 
-/* Number text (1/11 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
+
+
+
+section{
+    padding: 25px 30px 20px 30px;
+    background: #fff;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color:   yellow;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
+section .que_text{
+    font-size: 13px;
+    font-weight: 600;
 }
 
-.active {
-  background-color:  red;
+section .option_list{
+    padding: 20px 0px;
+    display: block;   
 }
 
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
+section .option_list .option{
+    background: aliceblue;
+    border: 1px solid #84c5fe;
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 17px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
+section .option_list .option:last-child{
+    margin-bottom: 0px;
 }
 
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
+section .option_list .option:hover{
+    color: #004085;
+    background: #5bafeb;
+    border: 1px solid black;
 }
 
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
-	
-	
+section .option_list .option.correct{
+    color: black;
+    background: #5fc76f;
+    border: 2px solid black;
 }
+
+section .option_list .option.incorrect{
+    color: white;
+    background: #db4848;
+    border: 2px solid black;
+}
+
+section .option_list .option.disabled{
+    pointer-events: none;
+}
+
+section .option_list .option .icon{
+    height: 26px;
+    width: 26px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 13px;
+    pointer-events: none;
+    transition: all 0.3s ease;
+    line-height: 24px;
+}
+.option_list .option .icon.tick{
+    color: #23903c;
+    border-color: #23903c;
+    background: #d4edda;
+}
+
+.option_list .option .icon.cross{
+    color: #a42834;
+    background: #f8d7da;
+    border-color: #a42834;
+}
+
+footer{
+    height: 60px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid lightgrey;
+}
+
+footer .total_que span{
+    display: flex;
+    user-select: none;
+}
+
+footer .total_que span p{
+    font-weight: 500;
+    padding: 0 5px;
+}
+
+footer .total_que span p:first-child{
+    padding-left: 0px;
+}
+
+footer button{
+    height: 40px;
+    padding: 0 13px;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 5px;
+    background: #007bff;
+    border: 1px solid #007bff;
+    line-height: 10px;
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.95);
+    transition: all 0.3s ease;
+}
+
+footer button:hover{
+    background: #0263ca;
+}
+
+footer button.show{
+    opacity: 1;
+    pointer-events: auto;
+    transform: scale(1);
+}
+
+.result_box{
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    padding: 25px 30px;
+    width: 450px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    transform: translate(-50%, -50%) scale(1.0);
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+.result_box .icon{
+    font-size: 100px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.result_box .complete_text{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.result_box .score_text span{
+    display: flex;
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.result_box .score_text span p{
+    padding: 0 4px;
+    font-weight: 600;
+}
+
+.result_box .buttons{
+    display: flex;
+    margin: 20px 0;
+}
+
+.result_box .buttons button{
+    margin: 0 10px;
+    height: 45px;
+    padding: 0 20px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    transition: all 0.3s ease;
+}
+
+.buttons button.restart{
+    color: #fff;
+    background: #007bff;
+}
+
+.buttons button.restart:hover{
+    background: #0263ca;
+}
+
+.buttons button.quit{
+    color: #007bff;
+    background: #fff;
+}
+
+.buttons button.quit:hover{
+    color: #fff;
+    background: #007bff;
+}
+
+
+.sol_img{
+width:100%;
+height: auto;
+box-shadow: 1px 2px 3px 3px #b7b6b8;
+padding: 5px;
+border-radius: 5px;
+border: 1px solid black;
+}
+
+.sol_btn{
+width: 130px;
+height: 40px;
+margin-top: 10px;
+background-image: linear-gradient(to right, #138a76, #14b341);
+color: white;
+font-weight: bold;
+border-radius: 8px;
+padding: 1px;
+margin-left: 30px;
+text-shadow: 2px 1px 2px #c9c9c9;
+font-size: 23px;
+}
+.sol_btn:hover{
+width: 130px;
+height: 40px;
+margin-top: 10px;
+background-color: white;
+color: white;
+font-weight: bold;
+border-radius: 5px;
+padding: 1px;
+margin-left: 30px;
+text-shadow: 2px 1px 2px black;
+font-size: 23px;
+}
+
+.back_btn{
+
+width: 130px;
+height: 40px;
+text-shadow: 2px 1px 2px #c9c9c9;
+margin-top: 10px;
+background-image: linear-gradient(to right, #16a0db, #1278a3);
+color: white;
+font-weight: bold;
+border-radius: 8px;
+padding: 1px;
+font-size: 23px;
+
+
+}
+.back_btn:hover{
+
+width: 130px;
+height: 40px;
+text-shadow: 2px 1px 2px black;
+margin-top: 10px;
+background-color: white;
+color: white;
+font-weight: bold;
+border-radius: 5px;
+border: 2px solid blue;
+padding: 1px;
+font-size: 23px;
+
+
+}
+
+body .chap_name_txt{
+width: 370px;
+height: 50px;
+background-color: white;
+text-shadow: 2px 2px 2px black;
+color: #6f2fd6; 
+padding: 5px;
+font-weight: bold;
+border-radius: 5px;
+display: none;
+text-align: center;
+margin-top: 200px;
+margin-left: 80px;
+margin-bottom: 70px;
+}
+
+body div div .que_menu{
+display: block;
+width: 400px;
+height: 50px ;
+}
+body div div div .que_menu1{
+width: 400px;
+height: 50px ;
+border: 1px solid black;
+border-radius: 2px;
+overflow: auto;
+position: fixed;
+display: flex;
+padding: 5px;
+box-shadow: 2px 2px 2px 2px #d6d4fa ;
+
+}
+body div div div .que_menu_number{
+width: 40px;
+height: 40px;
+text-decoration: none;
+font-size: 30px;
+text-shadow: 2px 1.5px 1.9px #6f6bf2;
+background-color: none;
+border: 1px solid white;
+box-shadow: 1px 1px 1px 1px black;
+border-radius:50%;
+margin-left: 30px;
+}
+
 </style>
 
 
-   <style>
-      body{
-        background: white;
-      }
-      .mainContainer {
-max-width: 660px;
-    margin: auto;
-    text-align: center;
-    position: relative;
-    padding-right: 1px;
-    padding-left: 1px;
-    padding-top: 1px;
-
-    margin-bottom: 65px;
-}
 
 
-.Technovedantncontainer {
-   
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-top: 2px;
-  
-}
-
-      }
-
-.username {
-    -webkit-animation: bounceIn 4s cubic-bezier(0.68, -0.55, 0.27, 1.55) infinite;
-     animation: bounceIn 4s cubic-bezier(0.68, -0.55, 0.27, 1.55) infinite;
-    -webkit-transition: all .2s;
-    transition: all .2s;
-    font-size: 40px;
-    font-family: 'SF Espresso Shack', cursive;
-    text-transform: uppercase;
-    TEXT-ALIGN:CENTER;
-    color: green;
-    text-shadow: -2px 0px 1px #22414f, -4px 0px 1px #22414f, -6px 0px 1px #22414f, -1px -1px 1px #22414f, -1px -2px 1px #22414f, -2px -1px 1px #22414f, -2px -2px 1px #22414f, -3px -3px 1px #22414f, -4px -4px 1px #22414f, -5px -5px 1px #22414f, -6px -6px 1px #22414f, 0 0 15px #22414f, 0 0 20px #22414f, 1px 1px #22414f,2px 2px #22414f;
-
-}
-      .fromMessage{
-       
-       
-        
-        font-size: 30px;
-        
-      }
-      .wavetext{
-        color: #3e8ed2;
-        padding: 0 40px;
-        animation: pulse 1s infinite;
-        font-size: 32px;
-
-      }
-      .wishMessage {
-        color: #3e8ed2;
-        font-size: 22px;
-        font-weight: bold;
-        margin-top: 50px;
-        text-shadow: 0px 0px 10px #00fff3
-      }
-      .wishMessage p{
-        margin: 0.5em 0;
-      }
-      #formBox {
-        left: 0;position: fixed;bottom: 0;display: inline-block;width: 100%;margin: 0;
-      }
-      #nameTextBox {
-        border: 3px solid #000000; text-align: center; display: inline-block; width: 70%;color: black;font-size:20px;margin: 0;background: #eee;height: 50px;font-weight: 700;;padding:8px 0;
-      }
-      #goButton {
-        width: 20%;background: gold;display: inline-block;vertical-align: bottom;border: 3px solid #000000;float: right;color: black;font-size:16px;padding:8px 0;height: 48px;text-align:center;font-weight: 700;
-      }
-      .footerbtn {
-        display: none;
-        line-height: 40px;
-        bottom: 10px;
-        height: 45px;
-        border-radius: 30px;
-        box-sizing: border-box;
-        padding: 5px;
-        background: #34af23;
-        color: #ffffff;
-        font-size: 20px;
-        text-align: center;
-        text-decoration: none;
-        box-shadow: 0 4px 12px 0 rgba(0, 0, 0, .3);
-        
-        position: fixed;
-        width: 70%;
-        left: 0;
-        margin: 2% 5%;
-      }
-      .footerbtn img {
-        position: relative;top:3px;
-      }
-      #inAdvance {
-        font-size: 20px; font-weight: bold;margin-top: 20px;color: #98201F;
-      }
-      #demoo {
-        font-size: 20px; font-weight: bold;color: red;
-        
-      }
-      #inAdvanceTime {
-        margin:20px 0 30px 0;
-      }
-      #inAdvanceTime p{
-        color: #ae00b9;font-size: 19px;font-weight: 500;
-        margin: 0;
-      }
-.bg{background-img e:url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fdata.whicdn.com%2Fimages%2F340441719%2Foriginal.gif&imgrefurl=https%3A%2F%2Fweheartit.com%2Fentry%2F340441719&tbnid=U6stKExUzIz_WM&vet=1&docid=uoN4poZv5e-gpM&w=370&h=640&itg=1&hl=en-IN&source=sh%2Fx%2Fim.gif");background-repeat:repeat}p.head.name{word-wrap: break-word;font-size:40px;font-family:sans-serif;text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);color:#f5f5f5}input#mce-names {width: 100% !important;margin-top: 20px !important;}
-
-
-
-
-.TechnoVedant-main-greeting {
-   
-    max-width: 660px;
-    margin: auto;
-    text-align: center;
-    position: relative;
-    padding: 0px;
-  
-    ba url("https://1.bp.blogspot.com/-nXy1rUqrars/XYtoum_Z8hI/AAAAAAAADBc/M1YfZ-RQkccJDaOu84L1MXK_mKCILVTXACLcBGAsYHQ/s320/flowers.gif");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    box : 3px 4px 41px 0 rgba(0, 0, 0, 0.64)
-    margin-bottom: 35px
-}
-
-.TechnoVedant-main-greeting .main_body {
-    text-align: center;
-    font-size: 1.3em
-}
-.TechnoVedant-main-greeting .main_body .text2 {
-    padding: 10px;
-    font-size: 20px
-}
-.TechnoVedant-main-greeting .text {
-    color: #405d9b;
-    letter-spacing: 1px;
-    font-weight: 600;
-    padding: 0px 10px;
-    text-align: center;
-}
-.TechnoVedant-main-greeting .pp-img {
-    max-width: 400px;
-    margin-bottom: 10px;
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.64);
-}
-
-.TechnoVedant-main-greeting .text_gradient {
-    margin: 5px auto;
-    font-weight: 700;
-    font-size: 24px;
-    color: #b50dae;
-}
-
-
-
-    </style>
-
-
-	  <style>img[alt="Technovedant.com"]{display:none;}</style>
 
 
 </head>
- <body class="bg">
- 
- 
- 
+<body>
+    <!-- start Quiz button -->
 
-<marquee class="technovedant1" behavior="scroll" direction="up" loop="-1" scrolldelay="1">  <br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-
-
-
-</marquee>
-
-
-
-
-<marquee class="technovedant2" behavior="scroll" direction="down" loop="-1" scrolldelay="0"><br>
-
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-
-<img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px" /><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br><img src="https://1.bp.blogspot.com/-k7NMEDET1q0/YFXp7kuizeI/AAAAAAAAACo/C4VhwxJCb5wZP_gKzpCciHLhg8k8FOXsQCLcBGAsYHQ/s0/pichkari-images.png" height="160px" width="50px"/><br><br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGg7_Yu-3Y4s5_vvTZ6gYyzXBn0N5nGG2IprbN5qiPM___m_h8PvhygGFvQ9Qk1Gx3nhY7wa90dqVwbTmfUhd5XrUoJbvKfn-7Tdk4qk98J8U0nJxfy1Chafg43Ym028GRWltZEbyCDmig01TsKTZiVMjSJcEVAygeOTfm9IsE__IQjllr2EEroDD9A/s1600/Happy-Holi-2023.png" height="160px" width="50px" class="rotate180"/><br><br>
-</marquee>
-
-
-
-</center> 
-
-
-
-
-
-
-<h3 style="color: white; background: url(https://i.pinimg.com/originals/c5/5d/72/c55d724f878fb587e4d1ad15d0107b9e.gif);" id="TECHNOVEDANT">
-</h1>
-
-<center><img src="https://3.bp.blogspot.com/--VrLDvTMfE0/W2xAmnbAbSI/AAAAAAAABo0/g6rPQo521MASQKKAnw2LLed-OR1OlgF9gCLcBGAs/s1600/c.gif" class="img-responsive" alt="TECHNOVEDANT" width="30%"></center>
-<br><br>
-
-<center>
-<iframe width="300" height="205" src="https://www.youtube.com/embed/2tL1xaMhKD4?controls=0&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
-
-
-
-  <div class="Technovedantncontainer">
-
-    <div class="TechnoVedant-main-greeting">
-
-
-
-
-
-
-<div 
-style=" color: white; font-weight: bold; padding-top: 6px; padding-bottom: 6px; font-size: large;text-align:center; ">
-
-<h2 class="font-effect-neon" align=center" 
-id="TECHNOVEDANT-show-name"
-style="background: url(https://i.pinimg.com/originals/c5/5d/72/c55d724f878fb587e4d1ad15d0107b9e.gif);">
-</font></div>
-
-
-
-        <div class="font-effect-neon"><p class="fromMessage" id="TECHNOVEDANT-fromMessage"></p>
-        
-        </div>
-        
-<center><span style="color: #ff077a; font-weight: bold;">▂ ▄ ▅ HAPPY HOLI ▅ ▄ ▂ </span></center>
-
-
-</center>
-
-<center>
+ <!--   <div class="start_btn"><button>Start Test</button><div class="header-ad-unit">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6738179060246081"
+    crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="fluid"
+    data-ad-layout-key="-gw-3+1f-3d+2z"
+    data-ad-client="ca-pub-6738179060246081"
+    data-ad-slot="6850459124"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
     
+    </div></div>-->
 
+      <br>
+      <br>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-</center>
-
-<!---- Snow falling Images ----->
-<div class="vi" style="text-align: center;">
-
-
-<center><img src="https://2.bp.blogspot.com/-2wQjG-citH8/W-pYxv5FR3I/AAAAAAAAAUw/CbtjMztQ8JgDEfa1tTjZ1hPcMAnMUTc1gCLcBGAs/s1600/transparent-welcome-christmas.gif" class="img-responsive" alt="TechnicalRpost" width="100%"></center>
-<br>
-
-<p style="text-align: center;"><strong><span style="font-size: 16pt; font-family: 'comic sans ms', sans-serif; color: #ff0044;">✡ <span style="font-family: 'trebuchet ms', geneva;">🌝Happy HOLI🌝</span> ✡</span></strong></p>
-<p style="text-align: center;"><strong><span style="font-size: 16pt; font-family: 'comic sans ms', sans-serif; color: #ff0044;">✡ <span style="font-family: 'trebuchet ms', geneva;">In</span> ✡</span></strong></p>
-<p style="text-align: center;"><strong><span style="font-size: 16pt; font-family: 'comic sans ms', sans-serif; color: #ff0044;">✡ <span style="font-family: 'trebuchet ms', geneva;"> ♥️ Advance 2023♥️ </span> ✡</span></strong></p>
-<br> 
-
-<center><img src="https://1.bp.blogspot.com/-KBhRR1uA-OI/XFER5G-eLxI/AAAAAAAABQQ/0i8Z-t0ALgolaUGvD5vvm4M-sEt53VlCQCLcBGAs/s1600/HOLI%2BRANG.gif" class="img-responsive" alt="ShahidBros" width="100%"></center>
-<br>
-
-<!---google adsense ad code--->
-  
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<div style="background-color:#00FFFF; border-radius: 17px; border: 0px solid rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 5px; color: black; font-family: arial, sans-serif; font-size: 18px; font-stretch: normal; font-style: normal; font-variant: normal; line-height: normal; margin: 0px auto; padding: 4px 5px 3px; width: 70%;">
-<marquee behavior="alternate"><b>पिचकारी की धार, गुलाल की बौछार,
-</b></marquee>
-</div>
-<div style="background-color: #FF0000; border-radius: 17px; border: 0px solid rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 5px; color: white; font-family: arial, sans-serif; font-size: 18px; font-stretch: normal; font-style: normal; font-variant: normal; line-height: normal; margin: 0px auto; padding: 4px 5px 3px; width: 70%;">
-<marquee behavior="alternate"><b>
-अपनों का प्यार, यही है यारों होली का त्यौहार.
-</b></marquee>
-</div>
-<div style="background-color: #FFFF00; border-radius: 17px; border: 0px solid rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 5px; color: black; font-family: arial, sans-serif; font-size: 18px; font-stretch: normal; font-style: normal; font-variant: normal; line-height: normal; margin: 0px auto; padding: 4px 5px 3px; width: 70%;">
-<marquee behavior="alternate"><b>
-HOLI HAIN BHAI HOLI HAIN
-</b></marquee>
-</div>
-</div>
-  
-<!---Google Add here--->
- <br>
-
-
-
-
-<!--<h2>Main Center Image</h2>-->
-<center><img src="https://1.bp.blogspot.com/-oAUomPF0euw/XlO3fmT0_HI/AAAAAAAAAQg/sr6JdaL-01gSeh5ulPtGClS_-88RczINACNcBGAsYHQ/s1600/Happy%2BHoli%2BGif%2B2020.gif" class="img-responsive" alt="Shahid Bros" width="100%"></center>
-<br>
-
-<!----- Wishing Poem Here ----->
-<p style="text-align: center;"><strong><span style="background-color: #ff0000; color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;☺️ सपनो की दुनिया और अपनों का प्यार </span></strong></p>
-<p style="text-align: center;"><span style="background-color: #008000; color: #ffffff; font-size: 20pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;गालों पे गुलाल और पानी की बौछार, 💐</span></p>
-<p style="text-align: center;"><span style="background-color: #ff00ff; color: #ffffff; font-size: 20pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;🎂 सुख समृद्धि और सफलता का हार, </span></p>  
-<p style="text-align: center;"><span style="background-color: #ff00ff; color: #ffffff; font-size: 20pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;🎂 मुबारक हो आपको रंगो का त्यौहार, </span></p> 
-<p style="text-align: center;"><span style="background-color: blue; color: #ffffff; font-size: 20pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;हैप्पी होली! 🤩</span></p><br>
-
-
-<p style="text-align: center;"><strong><span style="font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ff0000;">》⍟☆⍣होली की हार्दिक शुभकामनाएं⍣☆⍟《</span></span></strong></p>
-
-<div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-LysM3jCAQp8/XlOxvKl_ddI/AAAAAAAAAPw/Uqk7EFy9OjMX3ZknySA1_nZDfGF2wI0xACNcBGAsYHQ/s1600/holi%2Bhai%2Bscript.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-VtRBltdxYfQ/XFETvX7Bk3I/AAAAAAAABQw/Umm4CxAkChES4JKF5ibkT2cA3fmxjD5BACLcBGAs/s320/TECHNICAL%2BJITU.gif" width="320" height="261" data-original-width="212" data-original-height="173" /></a></div>
-<br>
-
-<!---ADSSENSE AD CODE--->
-  
-<p style="text-align: center;"><strong><span style="background-color: #ff0000; color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp; 😎 वसंत ऋतु की बहार,</span></p>
-<p style="text-align: center;"><span style="background-color: #008000; color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp; चली पिचकारी उड़ा है गुलाल,
- 🙄 </span></p>
-<p style="text-align: center;"><span style="background-color: #ff00ff; color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;🤔 रंग बरसे नीले हरे लाल, </span></p>
-<p style="text-align: center;"><span style="background-color: #00ccff; color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;मुबारक हो आपको होली का त्यौहार😋</span></p>
-
-<p style="text-align: center;"><span style="background-color: #ff6600; color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;😚 होली हैं भाई होली हैं  </span></p>
-
-<img width="80%" src="https://3.bp.blogspot.com/-ufe82TEMmG8/XFEQ6CwwwvI/AAAAAAAABQE/_Fe7UgRdKPUx_6REw3sz2x1Ey4a3NpL6ACLcBGAs/s1600/201403141394777536852290360.png"
->
-
-
-
-<center><img src="https://3.bp.blogspot.com/--VrLDvTMfE0/W2xAmnbAbSI/AAAAAAAABo0/g6rPQo521MASQKKAnw2LLed-OR1OlgF9gCLcBGAs/s1600/c.gif" class="img-responsive" alt="TECHNOVEDANT" width="30%"></center>
-<br><br>
-<br>
-
-<script>
-var slideIndex = 0;
-showSlides();
-
-function showSlides() {
-    var i;
-    var slides = document.getElementsByClassName("TECHNOVEDANTSlides");
-    var dots = document.getElementsByClassName("TECHNOVEDANTdot");
-    for (i = 0; i < slides.length; i++) {
-       slides[i].style.display = "none";  
-    }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}    
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";  
-    dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 3000); // Change image every 3 seconds
-}
-</script>
-<div id="formBox" >
-          <input type="text" name="name" id="nameTextBox"  placeholder="Enter Your Name">
-          <div id="goButton" onclick="createGreeting()" >
-          Click
-          </div>
-        </div>
-        <a class="footerbtn" href="javascript:void(0)" onclick="shareActionWA()">
-          <img width="25px" height="25px" src="https://2.bp.blogspot.com/-wqIwcDNHuLo/W1GSWn4DM7I/AAAAAAAABYk/7uT-lBuXTC0dMt86JLCmVoHKGWKBlClvQCLcBGAs/s1600/technovedan1.png">
-          <b style="font-size: 15px;position:  relative;top: -3px;margin: 0 10px;">Share with your Friends</b>
-          <img width="25px" height="25px" src="https://2.bp.blogspot.com/-wqIwcDNHuLo/W1GSWn4DM7I/AAAAAAAABYk/7uT-lBuXTC0dMt86JLCmVoHKGWKBlClvQCLcBGAs/s1600/technovedan1.png">
-        </a>
+    <!-- Info Box -->
+    <div class="info_box">
+    <div class="header-ad-unit">
+    
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6738179060246081"
+    crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="fluid"
+    data-ad-layout-key="-gw-3+1f-3d+2z"
+    data-ad-client="ca-pub-6738179060246081"
+    data-ad-slot="6850459124"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
     </div>
-        
-  </body>
+    
+    
+        <div class="info-title"><span>ध्यान दें:</span></div>
+        <div class="info-list">
+            <div class="info">1. आपके पास प्रत्येक प्रश्न के लिए केवल <span> 1 Minute</span> है.</div>
+            <div class="info">2. किसी भी क्वेश्चन का आंसर करने के लिए आपके पास केवल एक मौका है</div>
+            <div class="info">3. समय समाप्त होने के बाद आप किसी भी क्वेश्चन को आंसर नहीं कर पाएंगे</div>
+            <div class="info">4. एक बार Test Start होने के बाद आप बीच में नहीं छोड़ सकते।</div>
+            <div class="info">5. आपके सही उत्तरों के आधार पर हर एक सही उत्तर का 1 पॉइंट मिलेगा</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Test</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
 
-  <script>
-      var jqs = function(sParam) {
-        var sPageURL = window.location.search.substring(1);
-        var sURLVariables = sPageURL.split("&");
-        for (var i = 0; i < sURLVariables.length; i++) {
-            var sParameterName = sURLVariables[i].split("=");
-            if (sParameterName[0] === sParam) {
-              return sParameterName[1];
-            }
-          }
-      };
-    window.jqs = jqs;
-    var name = decodeURI(jqs("bl"));
-    if (typeof jqs("bl") === "undefined") {
-      name = "";
-    }
-    var checkName = function() {
-      if (name.length !== 0) {
-        name = name.replace(/-/g, " ");
-        console.log("name is there", name);
-        document.querySelector("#TECHNOVEDANT-show-name").innerHTML = name;
-        document.querySelector("#TECHNOVEDANT-fromMessage").innerHTML= "Wishing You"
-      } else {
-
-      }
-    };
-
-    checkName();
-
-    var createGreeting=function(){
-
-      // ga('send', {
-      //   hitType: 'event',
-      //   eventCategory: 'interaction',
-      //   eventAction: 'click',
-      //   eventLabel: 'goButtonClicked'
-      // });
-
-      gtag('event', 'click', {
-            'event_category': 'interaction',
-            'event_label': 'goButtonClicked',
-      });
-
-      sname=document.querySelector("#nameTextBox").value;
-      sname=sname.replace(/@/g,"-")
-      sname=sname.replace(/%40/g,"-")
-      sname=sname.replace(/\./g,"-")
-      if(sname.trim()!=""){
-        document.querySelector("#formBox").style.display = "none";
-        document.querySelector(".footerbtn").style.display = "block";
-        document.querySelector("#TECHNOVEDANT-show-name").innerHTML = sname;
-        document.querySelector("#TECHNOVEDANT-fromMessage").innerHTML= "Click on the WhatsApp button to share with your friends";
-        window.scrollTo(0,0);
-      }else {
-        alert ("Please Type Your Name First");
-        document.getElementById("nameTextBox").focus();
-      }
-    }
-
-    var shareActionWA = function() {
-      gtag('event', 'click', {
-            'event_category': 'interaction',
-            'event_label': 'shareOnWhatsAppClicked',
-      });
-
-      var shareString = "";
-      var whatsappHref;
-      shareString += "*"+sname+"*";
-
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+      <div class="header-ad-unit">
+         <div class="que_menu">
+         <div class="que_menu1">
+         <h3 style=" font-size: 15px;color:black;">Questions:<br>no. </h3>
+         <a class="que_menu_number" onclick="Q1()" href="#" >01</a>
+         <a class="que_menu_number" onclick="Q2()" href="#" >02</a>
+         <a class="que_menu_number" onclick="Q3()" href="#" >03</a>
+         <a class="que_menu_number" onclick="Q4()" href="#" >04</a>
+         <a class="que_menu_number" onclick="Q5()" href="#" >05</a>
+         <a class="que_menu_number" onclick="Q6()" href="#" >06</a>
+         <a class="que_menu_number" onclick="Q7()" href="#" >07</a>
+         <a class="que_menu_number" onclick="Q8()" href="#" >08</a>
+         <a class="que_menu_number" onclick="Q9()" href="#" >09</a>
+         <a class="que_menu_number" onclick="Q10()" href="#" >10</a>
+         </div>
+         </div>
       
-      shareString +=" मैंने आपके लिए कुछ
-       special भेजा है  "
-      shareString +=(window.location.href.split("?")[0] + "?bl=" + sname).replace("#", "").replace(/ /g, "-");
-     
+      
+         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6738179060246081"
+         crossorigin="anonymous"></script>
+         <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-format="fluid"
+         data-ad-layout-key="-gw-3+1f-3d+2z"
+         data-ad-client="ca-pub-6738179060246081"
+         data-ad-slot="6850459124"></ins>
+         <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+         </script>
+    
+      
+      </div>
+      <br>
+      
+        <header>
+            <div class="title">MP POLICE MOCK TEST 2023 </div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec">60</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Here I've inserted options from JavaScript -->
+            </div>
+            <div class="solution"> <div style="display:none;" class="sol_img"> </div></div>
+          <div style="display: flex;">
+             <button style="display: block;" class="back_btn">Back</button>
+             
+             <button style="display:none;" onclick="showImage()" class="sol_btn"><b> Solution</b></button>
+                </div>
+        </section>
 
-      whatsappHref = "whatsapp://send?text=" + shareString;
-      window.location.href = whatsappHref;
+        <!-- footer of Quiz Box -->
+        <footer>
+            <div class="total_que">
+                <!-- Here I've inserted Question Count Number from JavaScript -->
+            </div>
+            <button class="next_btn">Skip</button>
+        </footer>
+    </div>
 
-    };
-    var countDownDate = new Date("raj").getTime();
+    <!-- Result Box -->
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">You've completed the Quiz!</div>
+        <div class="score_text">
+            <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+        <div class="score_textN">
+        <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+        <div class="skipQue_count">
+        <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+        
+        <div class="buttons">
+            <button class="restart">Replay Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+    </div>
+    
+<script >
 
-    // Update the count down every 1 second
-    var x = setInterval(function() {
-        // Get todays date and time
-        var now = new Date().getTime();
+function showImage() {
+  a = document.querySelector(".sol_img");
+a.style.display = "block";
+}
 
-        // Find the distance between now an the count down date
-        var distance = now - countDownDate;
+function showQueNo() {
 
-        // Time calculations for days, hours, minutes and seconds
-        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+ showSeries  = document.querySelector(".que_menu");
+showSeries.style.display = "block";
+}
 
-        // Output the result in an element with id="demo"
-        document.getElementById("demoo").innerHTML = days + "days " + hours + "hr "+ minutes + "min " + seconds + "sec ";
-
-        // If the count down is over, write some text
-        if (distance < 0)
-         {
-            clearInterval(x);
-            document.getElementById("demoo").innerHTML = "";
-            document.getElementById("inAdvance").innerHTML = "";
-
-        }
-    }, 1000);
-  </script>
-<!-- Display the countdown timer in an element -->
-
-
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("mar 08, 2023 00:00:00").getTime();
-
-// Update the count down every 01 second
-var x = setInterval(function() {
-
-  // Get todays date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now an the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="TECHNOVEDANT"
-  document.getElementById("TECHNOVEDANT").innerHTML = "<i> I Wishing  you before:</i>" + days + "<i> Days,</i> " + hours + " <i>Hrs,</i> "
-  + minutes + "<i> Min,</i> " + seconds + "<i> Sec</i> ";
-
-  // If the count down is finished, write some text 
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("TECHNOVEDANT").innerHTML = " happy holi dear friend";
-  }
-}, 1000);
-</script>        
-<script src="https://www.googletagmanager.com/gtag/js?id=UA--1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA--1');
-  // ga('create', 'UA--1');
-  // ga('require', 'linker');
-  // ga('send', 'pageview');
 </script>
-</html>
+
+   <!--Inside this JavaScript file I've inserted Questions and Options only-->
+    
+    <script>
+    // creating an array and passing the number, questions, options, and answers
+    let questions = [
+    {
+    numb: 1,
+    question: "एक दुधवाला शुद्ध दुध के पात्र में से 20% दुध को पानी से बदल देता है और वह एक बार फिर ऐसा करता है। मिश्रण में दुध और पानी का अंतिम अनुपात ज्ञात कीजिये?<br> <span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 2 Feb 2022 shift-1</span>",
+    answer: "a.9:16",
+    options: [
+    "9:16",
+    "6:5",
+    "1:6",
+    "4:5"
+    ],
+    solution: "माना उसके पास 100 लीटर दूध है<br> 100 का 20% = 20ली.  <br>उसने पानी से बदल दिया अब 80 लीटर बचा। <br>80 ली. का 20% = 16ली. और पानी मिला दिया<br>  पानी की कुल मात्रा : 36ली.<br> दूध की बची मात्रा : 100-36= 64ली.<br>दूध : पानी = 64:36 = 16:9 "
+    },
+    
+    
+    
+    
+    {
+    numb: 2,
+    question: "यदि <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>  <mfrac>    <mrow>      <mn>4</mn>      <mi>a</mi>      <mo>+</mo>      <mn>2</mn>      <mi>b</mi>    </mrow>    <mrow>      <mn>4</mn>      <mi>a</mi>      <mo>&#x2212;</mo>      <mn>3</mn>      <mi>b</mi>    </mrow>  </mfrac>  <mo>=</mo>  <mn>6</mn></math><br> है, तो a:b का मान निम्न में से क्या होगा?<br><span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 1 Feb 2022 shift-1</span>",
+     answer: "a.7:10",
+    options: [
+    "7:10",
+    "3:4",
+    "7:8",
+    "14:10"
+    ],
+    solution: "10a = 7b"
+    },
+    {
+    numb: 3,
+    question: "निन्नलिखित संख्या-श्रृंखला में प्रश्रचिन्हृ ? के स्थान पर क्या आना चाहिए? <br>68.01% का 1391+37% का 1199.93 - 73% का 3893 =? <br> <span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 1 Feb 2022 shift-1</span>",
+    answer: "d.4243",
+    options: [
+    "3155",
+    "2150",
+    "2862",
+    "4243"
+    ],
+    solution: "4243"
+    },
+   
+    {
+    numb: 4,
+    question: "सरल कीजिए: 60-34+21÷3 <br> <span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 1 Feb 2022 shift-1</span>",
+    answer: "c.33",
+    options: [
+    "40",
+    "54",
+    "33",
+    "67"
+    ],
+    solution: "BADMAS rule <br> B → bracket (कोष्टक)<br> D → division (भाग)<br> M→ multiple (गुणा)<br> A →  Addition (जोड़)<br> S → subtraction (घटाना) ",
+    },
+    {
+    numb: 5,
+    question: "90 छात्रों की एक कक्षा में, 35 लड़कियों का औसत वजन 40 किलोग्राम है और शेष छात्रों का औसत वजन 45 किलोग्राम है। सभी 90 छात्रों का लगभग औसत वजन (किलो में) क्या होगा?<br> <span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 1 Feb 2022 shift-2</span>",
+    answer: "a.43.05 kg",
+    options: [
+    "43.05 kg",
+    "32.3 kg",
+    "35.5 kg",
+    " 40.2 kg"
+    ],
+    solution: '<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mrow><mn>35</mn><mi>×</mi><mn>40</mn><mo>+</mo><mn>55</mn><mi>×</mi><mn>45</mn></mrow><mn>90</mn></mfrac><mo>=</mo><mfrac><mn>3875</mn><mn>90</mn></mfrac><mo>=</mo><mn>43.05</mn><mi>k</mi><mi>g</mi></math>',
+    },
+    {
+    numb: 6,
+    question: "निन्नलिखित संख्या-श्रंखला में प्रश्रचिन्ह (? ) के स्थान पर क्या आना चाहिए? <br>1/27 का 3375 + 44%  का 2775 = ? <br> <span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 2 Feb 2022 shift-1</span>",
+    answer: "a.1346",
+    options: [
+    "1346",
+    "1575",
+    "1329",
+    "1420"
+    ],
+    solution: 'coming soon!!',
+    },
+    {
+    numb: 7,
+    question: 'निन्नलिखित संख्या-श्रंखला में प्रश्रचिन्ह (? ) के स्थान पर क्या आना चाहिए? <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">   <msqrt>     <mn>1090</mn>   </msqrt>   <mo>+</mo>   <mo stretchy="false">(</mo>   <mn>8</mn>   <mn>.04</mn>   <mi>&#xD7;</mi>   <mn>24</mn>   <mo stretchy="false">)</mo>   <mo>+</mo>   <mo stretchy="false">(</mo>   <mn>19</mn>   <mn>.10</mn>   <msup>     <mo stretchy="false">)</mo>     <mrow data-mjx-texclass="ORD">       <mn>2</mn>     </mrow>   </msup>   <mo>=</mo>   <mo>?</mo> </math> <br> <span style="color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;">mp police 1 Feb 2022 shift 2</span>',
+    answer: "b.586",
+    options: [
+    "324",
+    "586",
+    "325",
+    "987"
+    ],
+    solution: 'digital sum ',
+    },
+    {
+    numb: 8,
+    question: "दो बर्तन A और B हैं । बर्तन A में 95 लीटर शुद्ध दूध है और बर्तन B में 75 लीटर शुद्ध पानी है। बर्तन A से, 5L दूध निकाला जाता है और बर्तन B में डाला जाता है। फिर, बर्तन B से 10L मिश्रण (दूध और पानी) निकाला जाता है और बर्तन A में डाला जाता है। बर्तन A में दूध की मात्रा का अनुपात क्या है?बर्तन B में शुद्ध पानी की मात्रा?<br> <span style='color: white; background-color: #15b345; margin-left: 80px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 3Feb 2022 morning shift</span> ",
+    answer: "c.29:27",
+    options: [
+    "33:29",
+    "12:17",
+    "29:27",
+    "5:21"
+    ],
+    solution: '',
+    },
+    {
+    numb: 9,
+    question: 'सरल कीजिए:<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">   <mfrac>     <mn>86</mn>     <mn>17</mn>   </mfrac>   <mo>&#x2212;</mo>   <mo stretchy="false">[</mo>   <mfrac>     <mn>4</mn>     <mn>9</mn>   </mfrac>   <mo>+</mo>   <mo stretchy="false">(</mo>   <mfrac>     <mn>8</mn>     <mn>24</mn>   </mfrac>   <mi>&#xF7;</mi>   <mfrac>     <mn>8</mn>     <mn>48</mn>   </mfrac>   <mo stretchy="false">)</mo>   <mo stretchy="false">]</mo> </math> <br> <span style="color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;">mp police 6 Feb 2022 shift-1</span>',
+    answer: 'b.400/153',
+    options: [
+    '<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">   <mfrac>     <mn>-356</mn>     <mn>153</mn>   </mfrac> </math>',
+    '400/153',
+    '<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">   <mfrac>     <mn>432</mn>     <mn>153</mn>   </mfrac> </math>',
+    '<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">   <mfrac>     <mn>-400</mn>     <mn>153</mn>   </mfrac> </math>'
+    ],
+    solution: 'simple calculation <br> try you can',
+    },
+    {
+    numb: 10,
+    question: "25 व्यक्ति पार्टी के लिए एक होटल गए। उनमें से 15 ने प्रत्येक ने अपने रात के खाने पर 100 रुपये खर्च किए और शेष ने सभी 25 के औसत खर्च से 5 रुपये अधिक खर्च किए। उनके द्वारा खर्च किएगए कुल रूपये कितने थे? <br> <span style='color: white; background-color: #15b345; margin-left: 130px; font-size: 12px; padding: 2px; border-radius: 3px;'>mp police 2017 Exam(online)</span>",
+    answer: "c.2583.25",
+    options: [
+    "2053",
+    "4350",
+    "2583.25",
+    "2500.8"
+    ],
+    solution: 'coming soon!!',
+    },
+   
+    
+    // you can uncomment the below codes and make duplicate as more as you want to add question
+    // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
+    
+    //   {
+    //   numb: 6,
+    //   question: "Your Question is Here",
+    //   answer: "Correct answer of the question is here",
+    //   options: [
+    //     "Option 1",
+    //     "option 2",
+    //     "option 3",
+    //     "option 4"
+    //   ]
+    // },
+    ];
+    
+  </script>
+    
+ <script>
+
+    // Inside this JavaScript file I've coded all Quiz Codes 
+  
+    //selecting all required elements
+    const start_btn = document.querySelector(".start_btn button");
+    const info_box = document.querySelector(".info_box");
+    const exit_btn = info_box.querySelector(".buttons .quit");
+    const continue_btn = info_box.querySelector(".buttons .restart");
+    const quiz_box = document.querySelector(".quiz_box");
+    const result_box = document.querySelector(".result_box");
+    const option_list = document.querySelector(".option_list");
+    const time_line = document.querySelector("header .time_line");
+    const timeText = document.querySelector(".timer .time_left_txt");
+    const timeCount = document.querySelector(".timer .timer_sec");
+    
+    const chap_name_txt = document.querySelector(".chap_name_txt");
+        // if startQuiz button clicked""
+    onload = ()=>{
+    info_box.classList.add("activeInfo"); //show info box
+    chap_name_txt.style.display = "block";
+    }
+    
+    // if exitQuiz button clicked
+    exit_btn.onclick = ()=>{
+    info_box.classList.remove("activeInfo"); //hide info box
+    }
+    
+    // if continueQuiz button clicked
+    continue_btn.onclick = ()=>{
+    info_box.classList.remove("activeInfo"); //hide info box
+    quiz_box.classList.add("activeQuiz"); //show quiz box
+    next_btn.classList.add("show");
+    showQuetions(0); //calling showQestions function
+    queCounter(1); //passing 1 parameter to queCounter
+    startTimer(60); //calling startTimer function
+    startTimerLine(0); //calling startTimerLine function
+    chap_name_txt.style.display = "none";
+    
+    
+    }
+    
+    let timeValue =  60;
+    let que_count = 0;
+    let que_numb = 1;
+    let userScore = 0;
+    let negativeScore = 0;
+    let counter;
+    let counterLine;
+    let widthValue = 0;
+    let skipQue = 0;
+    const restart_quiz = result_box.querySelector(".buttons .restart");
+    const quit_quiz = result_box.querySelector(".buttons .quit");
+    
+    // if restartQuiz button clicked
+    restart_quiz.onclick = ()=>{
+    quiz_box.classList.add("activeQuiz"); //show quiz box
+    result_box.classList.remove("activeResult"); //hide result box
+    timeValue = 60; 
+    que_count = 0;
+    que_numb = 1;
+    userScore = 0;
+    negativeScore = 0;
+    skipQue = 0;
+    widthValue = 0;
+    showQuetions(que_count); //calling showQestions function
+    queCounter(que_numb); //passing que_numb value to queCounter
+    clearInterval(counter); //clear counter
+    clearInterval(counterLine); //clear counterLine
+    startTimer(timeValue); //calling startTimer function
+    startTimerLine(widthValue); //calling startTimerLine function
+    timeText.textContent = "Time Left"; //change the text of timeText to Time Left
+   // next_btn.classList.remove("show"); //hide the next button
+    }
+    
+    // if quitQuiz button clicked
+    quit_quiz.onclick = ()=>{
+    window.location.reload(); //reload the current window
+    }
+    
+    const sol_btn = document.querySelector("section .sol_btn");
+    const next_btn = document.querySelector("footer .next_btn");
+    const bottom_ques_counter = document.querySelector("footer .total_que");
+    
+    // if Next Que button clicked
+    next_btn.onclick = ()=>{
+    if(que_count < questions.length - 1){ //if question count is less than total question length
+    que_count++; //increment the que_count value
+    que_numb++; //increment the que_numb value
+    showQuetions(que_count); //calling showQestions function
+    queCounter(que_numb); //passing que_numb value to queCounter
+    clearInterval(counter); //clear counter
+    clearInterval(counterLine); //clear counterLine
+    startTimer(timeValue); //calling startTimer function
+    startTimerLine(widthValue); //calling startTimerLine function
+    timeText.textContent = "Time Left"; //change the timeText to Time Left
+    //next_btn.classList.remove("show"); //hide the next button
+    sol_btn.style.display = "none";
+    a.style.display = "none";
+    back_btn.style.display = "block";
+    timeText.style.color = "black";
+    time_line.style.background = "#48e81c";
+    
+    }else{
+    back_btn.style.display = "block";
+    clearInterval(counter); //clear counter
+    clearInterval(counterLine); //clear counterLine
+    showResult(); //calling showResult function
+    }
+  
+    }
+    
+    
+    const back_btn = document.querySelector("section .back_btn");
+    // if previous Que button clicked
+    back_btn.onclick = ()=>{
+    if(que_count >  0){ //if question count is less than total question length
+    que_count--; //increment the que_count value
+    que_numb--; //increment the que_numb value
+    showQuetions(que_count); //calling showQestions function
+    queCounter(que_numb); //passing que_numb value to queCounter
+     clearInterval(counter); //clear counter
+     clearInterval(counterLine);//clear counter
+     
+    back_btn.style.display = "block";
+    sol_btn.style.display = "none";
+    a.style.display = "none";
+    timeText.style.color = "black";
+    time_line.style.background = "#48e81c";
+    }
+    else{
+    back_btn.style.display = "block";
+    }
+    }
+    
+   
+    
+    
+    
+    
+    
+    // getting questions and options from array
+    function showQuetions(index){
+    const que_text = document.querySelector(".que_text");
+    
+    let solutionImage = document.querySelector(".solution .sol_img");
+    
+    let sol_tag = questions[index].solution;
+    solutionImage.innerHTML = sol_tag;
+    
+    //creating a new span and div tag for question and option and passing the value using array index
+    let que_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';
+    let option_tag = '<div class="option"><a  style="margin-bottom: 0px; align-item: center;font-size:20px; justify-content: center; width:30px;height:30px;border-radius:50%;">a.</a><span>'+ questions[index].options[0] +'</span></div>'
+    + '<div  class="option"><a  style=" margin-bottom: 0px; align-item: center;font-size:20px; justify-content: center; width:30px;height:30px;">b.</a><span>'+ questions[index].options[1] +'</span></div>'
+    + '<div class="option"><a  style="margin-bottom: 0px; align-item: center;font-size:20px; justify-content: center; width:30px;height:30px;border-radius:50%; ">c.</a><span>'+ questions[index].options[2] +'</span></div>'
+    + '<div class="option"><a  style="margin-bottom: 0px; align-item: center;font-size:20px; justify-content: center; width:30px;height:30px;border-radius:50%; ">d.</a><span>'+ questions[index].options[3] +'</span></div>';
+    que_text.innerHTML = que_tag; //adding new span tag inside que_tag
+    option_list.innerHTML = option_tag; //adding new div tag inside option_tag
+    
+    const option = option_list.querySelectorAll(".option");
+    
+    // set onclick attribute to all available options
+    for(i=0; i < option.length; i++){
+    option[i].setAttribute("onclick", "optionSelected(this)");
+    }
+    }
+    // creating the new div tags which for icons
+    let tickIconTag = '<div class="icon tick"><i class="fas fa-check"></i></div>';
+    let crossIconTag = '<div class="icon cross"><i class="fas fa-times"></i></div>';
+    
+    //if user clicked on option
+    function optionSelected(answer){
+    clearInterval(counter); //clear counter
+    clearInterval(counterLine); //clear counterLine
+    let userAns = answer.textContent; //getting user selected option
+    let correcAns = questions[que_count].answer; //getting correct answer from array
+    const allOptions = option_list.children.length; //getting all option items
+    
+    if(userAns == correcAns){ //if user selected option is equal to array's correct answer
+    userScore += 1; //upgrading score value with 1
+    answer.classList.add("correct"); //adding green color to correct selected option
+    answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
+    console.log("Correct Answer");
+    console.log("Your correct answers = " + userScore);
+    sol_btn.style.display = "block";
+    back_btn.style.display = "block";
+    }
+    else if(userAns !== correcAns){
+    negativeScore += 1;
+    back_btn.style.display = "block";
+    sol_btn.style.display = "block";
+    answer.classList.add("incorrect"); //adding red color to correct selected option
+    answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
+    console.log("Wrong Answer");
+    
+    
+    for(i=0; i < allOptions; i++){
+    if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer 
+    option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+    option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+    console.log("Auto selected correct answer.");
+    }
+    }
+    }
+    for(i=0; i < allOptions; i++){
+    option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
+    }
+    next_btn.classList.add("show"); //show the next button if user selected any option
+    }
+    
+    
+    function showResult(){
+    info_box.classList.remove("activeInfo"); //hide info box
+    quiz_box.classList.remove("activeQuiz"); //hide quiz box
+    result_box.classList.add("activeResult"); //show result box
+    const scoreText = result_box.querySelector(".score_text");
+    const scoreTextN = result_box.querySelector(".score_textN");  
+    const skip_que = result_box.querySelector(".skipQue_count");
+    
+/**   if (userScore > 3){ // if user scored more than 3
+    //creating a new span tag and passing the user score number and total question number
+    let scoreTag = '<span>and congrats! 🎉, You got <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
+    scoreText.innerHTML = scoreTag;  //adding new span tag inside score_Text
+    }
+    else if(userScore > 1){ // if user scored more than 1
+    let scoreTag = '<span>and nice 😎, You got <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
+    scoreText.innerHTML = scoreTag;
+    }
+    else{ // if user scored less than 1
+    let scoreTag = '<span>and sorry 😐, You got only <p>'+ userScore  +" out of"  + questions.length +'</p></span>';
+    scoreText.innerHTML = scoreTag;
+    }**/
+    scoreText.innerHTML = "correct : " + userScore;
+    scoreTextN.innerHTML = "wrong : " + negativeScore;
+  const  skip_que_txt =  (que_count+1) - (userScore + negativeScore);
+    skip_que.innerHTML = "skip : " + skip_que_txt;
+ 
+    
+    
+    }
+    
+    function startTimer(time){
+    counter = setInterval(timer, 1000);
+    function timer(){
+    timeCount.textContent = time; //changing the value of timeCount with time value
+    time--; //decrement the time value
+    if(time < 9){ //if timer is less than 9
+    let addZero = timeCount.textContent; 
+    timeCount.textContent = "0" + addZero; //add a 0 before time value
+ 
+    time_line.style.background = "red";
+    }
+    if(time < 0){ //if timer is less than 0
+    clearInterval(counter); //clear counter
+    timeText.textContent = "Time Off"; //change the time text to time off
+    const allOptions = option_list.children.length; //getting all option items
+    let correcAns = questions[que_count].answer; //getting correct answer from array
+    sol_btn.style.display = "block";
+    for(i=0; i < allOptions; i++){
+    if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
+    option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+    option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+    console.log("Time Off: Auto selected correct answer.");
+    }
+    }
+    for(i=0; i < allOptions; i++){
+    option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
+    }
+    next_btn.classList.add("show"); //show the next button if user selected any option
+    }
+    }
+    }
+    
+    function startTimerLine(time){
+    counterLine = setInterval(timer, 323);
+    function timer(){
+    time += 2; //upgrading time value with 1
+    time_line.style.width = time + "px"; //increasing width of time_line with px by time value
+    if(time > 549){ //if time value is greater than 549
+    clearInterval(counterLine); //clear counterLine
+    }
+    }
+    }
+    
+    function queCounter(index){
+    //creating a new span tag and passing the question number and total question
+    let totalQueCounTag = '<span><p>'+ index +'</p> of <p>'+ questions.length +'</p> Questions</span>';
+    bottom_ques_counter.innerHTML = totalQueCounTag;  //adding new span tag inside bottom_ques_counter
+    }
+   
+   
+    function Q1(){let que_count = 1 - 1; showQuetions(que_count); }
+    function Q2(){let que_count = 2 - 1; showQuetions(que_count); }
+    function Q3(){let que_count = 3 - 1; showQuetions(que_count); }
+    function Q4(){let que_count = 4 - 1; showQuetions(que_count); }
+    function Q5(){let que_count = 5 - 1; showQuetions(que_count); }
+    function Q6(){let que_count = 6 - 1; showQuetions(que_count); }
+    function Q7(){let que_count = 7 - 1; showQuetions(que_count); }
+    function Q8(){let que_count = 8 - 1; showQuetions(que_count); }
+    function Q9(){let que_count = 9 - 1; showQuetions(que_count); }
+    function Q10(){let que_count = 10 - 1; showQuetions(que_count); }
+    
+    
+    </script>
+
+
+</script>
+
+</body>
+</html
