@@ -1451,17 +1451,17 @@ border: 0.5px solid black;
     scoreTextN.innerHTML = "wrong : " + negativeScore;
     const  skip_que_txt =  (que_count+1) - (userScore + negativeScore);
     skip_que.innerHTML = "skiped : " + skip_que_txt;
-    const unseen = 20 - (userScore + negativeScore + skip_que_txt);
+    const unseen = 13 - (userScore + negativeScore + skip_que_txt);
     unseenQue.innerHTML = "unseen : " + unseen;
     
     // ... your existing code ...
     
     // Calculate the percentage values for each circle
     const totalQuestions = questions.length;
-    const userScorePercentage = (userScore / 20) * 100;
-    const negativeScorePercentage = (negativeScore / 20) * 100;
-    const skipPercentage = (skip_que_txt / 20) * 100;
-    const unseenPercentage = (unseen / 20) * 100;
+    const userScorePercentage = (userScore / 13) * 100;
+    const negativeScorePercentage = (negativeScore / 13) * 100;
+    const skipPercentage = (skip_que_txt / 13) * 100;
+    const unseenPercentage = (unseen /13) * 100;
     
     // Get circle elements
     const userScoreCircle = result_box.querySelector(".user_score_circle");
